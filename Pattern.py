@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[8]:
-
-
 for x in 'ABCDE':
     for y in 'ABCDE':
         if y < x:
@@ -11,4 +5,3 @@ for x in 'ABCDE':
         else:
             print(y, end="")
         print()
-
